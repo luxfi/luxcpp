@@ -60,7 +60,7 @@ export const config = {
       },
     ],
     copyright: {
-      text: 'Lux Partners Ltd.',
+      text: 'Lux Industries Inc',
       badge: 'C++20',
     },
   },
